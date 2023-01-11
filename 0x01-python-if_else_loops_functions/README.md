@@ -1,1 +1,1 @@
-python programming is awesome
+chmod u+x *
