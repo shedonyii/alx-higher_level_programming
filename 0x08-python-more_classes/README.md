@@ -1,1 +1,1 @@
-0x08-python-more_classes
+chmod u+x *
