@@ -1,5 +1,3 @@
-nes (17 sloc)  538 Bytes
-
 #!/usr/bin/python3
 """Defines a square-printing function."""
 
